@@ -220,7 +220,7 @@ def connection_token():
 
 
 def iAmMethod3Ua():
-	ua = "https://github.com/Asmatkhan009911/KHAN/blob/main/UA.txt"
+	ua = random.choice("Mozilla/5.0 (Windows NT 10.0; {str(rr(9,11))}; Win64; x64){str(aZ)}{str(rx)}{str(aZ)}) AppleWebKit/537.36 (KHTML, like Gecko){str(rr(99,149))}.0.{str(rr(4500,4999))}.{str(rr(35,99))} Chrome/{str(rr(99,175))}.0.{str(rr(0,5))}.{str(rr(0,5))} Safari/537.36")
 	return ua
 
 
